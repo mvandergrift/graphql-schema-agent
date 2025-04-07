@@ -1,4 +1,4 @@
-# GraphQL Schema Agent
+# Large GraphQL Schema Agent
 
 An intelligent agent for querying and analyzing large GraphQL schemas using local TensorFlow embeddings and Claude LLMs.
 
